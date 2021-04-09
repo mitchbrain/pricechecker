@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ebayapiwrap", "ebayapiwrap\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pricecheckersite", "pricecheckersite\pricecheckersite.csproj", "{B80B78CE-D4B6-49E8-98C2-7AF51687B796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apitests", "apitests\apitests.csproj", "{BD9854A3-FB52-4716-9F2D-E2CB9B888D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B80B78CE-D4B6-49E8-98C2-7AF51687B796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80B78CE-D4B6-49E8-98C2-7AF51687B796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80B78CE-D4B6-49E8-98C2-7AF51687B796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9854A3-FB52-4716-9F2D-E2CB9B888D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9854A3-FB52-4716-9F2D-E2CB9B888D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9854A3-FB52-4716-9F2D-E2CB9B888D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9854A3-FB52-4716-9F2D-E2CB9B888D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
